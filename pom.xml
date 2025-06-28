@@ -55,12 +55,12 @@
                             <goal>report</goal>
                         </goals>
                     </execution>
-                    <execution>
-                        <id>check</id>
-                        <goals>
-                            <goal>check</goal>
-                        </goals>
-                        <configuration>
+<!--                    <execution>-->
+<!--                        <id>check</id>-->
+<!--                        <goals>-->
+<!--                            <goal>check</goal>-->
+<!--                        </goals>-->
+<!--                        <configuration>-->
 <!--                            <rules>-->
 <!--                                <rule>-->
 <!--                                    <limits>-->
@@ -72,8 +72,8 @@
 <!--                                    </limits>-->
 <!--                                </rule>-->
 <!--                            </rules>-->
-                        </configuration>
-                    </execution>
+<!--                        </configuration>-->
+<!--                    </execution>-->
                 </executions>
             </plugin>
         </plugins>
